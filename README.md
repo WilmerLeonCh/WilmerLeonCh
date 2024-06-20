@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on GRUPO ALVICOM TRADING SRL.
 - 💻 I'm backend developer **Go and Postgresql**.
-- 🌱 I’m currently learning data structure and algorithms.
+- 🌱 I’m currently learning about hexagonal arquitecure.
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/wilmer-le%C3%B3n-ch%C3%A1vez-27731a164/)
 
 
